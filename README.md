@@ -45,7 +45,7 @@ flask (optional, for web deployment)
 
 Clone the repository
 
-git clone https://github.com/your-username/real-time-emotion-detection.git
+
 cd real-time-emotion-detection
 
 
